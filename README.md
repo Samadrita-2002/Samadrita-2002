@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Samadrita 👋
+
+🎓 Economics Postgraduate  
+📊 Aspiring Data Analyst  
+💻 SQL | Python | Power BI | Excel
+
+## 📄 Resume
+
+My resume can be found below.
 
 <!--
 **Samadrita-2002/Samadrita-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
