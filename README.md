@@ -7,7 +7,7 @@
 ## 📄 Resume
 
 My resume can be found below.
-[View my Resume](./Samadrita_Mazumder_CV_20260829.pdf)
+[View my Resume](./Samadrita_Mazumder_CV_20260906.pdf)
 
 ## 📊 Featured Projects
 
