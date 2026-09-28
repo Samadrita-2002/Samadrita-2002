@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Samadrita 👋
 
 🎓 Economics Postgraduate  
-📊 Aspiring Data Analyst  
+📊 Data Analyst  
 💻 SQL | Python | Power BI | Excel
 
 ## 📄 Resume
