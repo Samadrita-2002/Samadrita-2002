@@ -7,7 +7,7 @@
 ## 📄 Resume
 
 My resume can be found below.
-[View my Resume](./Samadrita_Mazumder_CV_20260909.pdf)
+[View my Resume](./Samadrita_Mazumder_CV_20260927.pdf)
 
 ## 📊 Featured Projects
 
@@ -15,6 +15,9 @@ My resume can be found below.
 - [FP&A Actuals_vs_budget Variance Analysis and Forecast](https://github.com/Samadrita-2002/FP-A-Budget_vs_Actuals-Variance-Analysis-and-Forecast)
 - [Marketing A/B Testing Analysis: Ad Effectiveness and Statistical Significance](https://github.com/Samadrita-2002/Marketing-AB-Testing-Analysis)
 - [Customer RFM Segmentation, Cohort Retention, and Order Funnel Analysis](https://github.com/Samadrita-2002/Customer-RFM-Segmentation-and-Cohort-Retention-Analysis)
+- [Facebook Ads Campaign Efficiency Analysis: Conversion, CPA & Audience Segmentation](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis)
+- [Indian Passenger Car Market — Sales Analysis & Q1 2025 Forecast](https://github.com/Samadrita-2002/Indian-Passenger-Car-Market-Sales-Analysis-Q1-2025-Forecast)
+- [Order-to-Payment Reconciliation (Three-Way Match)](https://github.com/Samadrita-2002/Order-to-Payment-Reconciliation-Three-way-Match-)
 <!--
 **Samadrita-2002/Samadrita-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
